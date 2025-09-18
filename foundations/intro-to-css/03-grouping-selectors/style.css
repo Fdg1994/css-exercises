@@ -1,1 +1,6 @@
 /* Add CSS Styling */
+.btn1,
+.btn2 {
+    font-size: 28px;
+    font-family: helvetica, sans-serif, 'Times New Roman';
+}
